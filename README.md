@@ -29,12 +29,3 @@ The datasets used for this analysis include time series data for:
 
 These were originally sourced from the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE):  
 https://github.com/CSSEGISandData/COVID-19
-
-## Project Structure
-
-Covid-19-Analysis/
-│
-├── Covid-19 Analysis.ipynb # Main Jupyter notebook with code and analysis
-├── README.md # Project documentation
-└── datasets/
-
